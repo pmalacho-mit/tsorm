@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pmalacho-mit/tsorm
+	branch = dist
+	commit = 7095ad94692753a5f185bb94db7e8d6be803e328
+	parent = c88f3615df1b9a3fd8ddd74b69731096bdb0ce30
+	method = merge
+	cmdver = 0.4.9
